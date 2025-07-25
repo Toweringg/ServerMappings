@@ -2,7 +2,7 @@
     "id": "thegoldenarmory",
     "name": "The Golden Armory",
     "store": "https://store.thegoldenarmory.net/",
-	"website": "https://www.thegoldenarmory.net/",
+    "website": "https://www.thegoldenarmory.net/",
     "addresses": [
         "thegoldenarmory.net"
     ],
@@ -14,8 +14,8 @@
         "1.17.*",
         "1.18.*",
         "1.19.*",
-		"1.20.*",
-		"1.21.*"
+	"1.20.*",
+	"1.21.*"
     ],
     "primaryMinecraftVersion": "1.16.5",
     "primaryRegion": "NA",
@@ -28,11 +28,10 @@
     ],
     "gameTypes": [
         "Minigames",
-		"Survival",
-		"PvP",
-		"Creative"
+	"Survival",
+	"Creative"
     ],
-	    "socials": {
+	"socials": {
         "twitter": "TheGoldenArmory",
         "discord": "https://discord.gg/axEQaq8ezC",
         "youtube": "@thegoldenarmory",
