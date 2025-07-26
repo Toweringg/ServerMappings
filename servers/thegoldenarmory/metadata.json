@@ -1,8 +1,7 @@
 {
     "id": "thegoldenarmory",
     "name": "The Golden Armory",
-    "store": "https://store.thegoldenarmory.net/",
-    "website": "https://www.thegoldenarmory.net/",
+    "description": "A 1.16+ server that offers Hunger Games, Creative, Survival, Minigames, and more!",
     "addresses": [
         "thegoldenarmory.net"
     ],
@@ -31,6 +30,8 @@
 	"Survival",
 	"Creative"
     ],
+    "store": "https://store.thegoldenarmory.net/",
+    "website": "https://www.thegoldenarmory.net/",
 	"socials": {
         "twitter": "TheGoldenArmory",
         "discord": "https://discord.gg/axEQaq8ezC",
